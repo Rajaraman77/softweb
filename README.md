@@ -859,10 +859,11 @@ align-items: bottom;
     ```
 
 ## OUTPUT:
-Screenshot 2024-05-08 222950.png
-Screenshot 2024-05-08 223005.png
-Screenshot 2024-05-08 223024.png
-Screenshot 2024-05-08 223036.png
+![Screenshot 2024-05-08 222950](https://github.com/Rajaraman77/softweb/assets/150319383/83ad92d3-d606-4695-bd72-da23808586b5)
+![Screenshot 2024-05-08 223005](https://github.com/Rajaraman77/softweb/assets/150319383/d030510b-47d8-4e2a-a4f8-7b0cb2d2edb9)
+![Screenshot 2024-05-08 223024](https://github.com/Rajaraman77/softweb/assets/150319383/eab8a0d8-2054-4944-b741-77e48e865920)
+![Screenshot 2024-05-08 223036](https://github.com/Rajaraman77/softweb/assets/150319383/b9cbe9ea-02c0-4b63-8644-437b1e1f92c5)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
