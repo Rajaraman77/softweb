@@ -856,12 +856,13 @@ align-items: bottom;
                    
     </body>
     </html>
-    ```
+```
 
 ## OUTPUT:
-![image](https://github.com/Rajaraman77/softweb/assets/150319383/6a6e4851-6643-43aa-9fd5-1a5e2964c760)
-
-
+![Screenshot 2024-05-08 222950](https://github.com/Rajaraman77/softweb/assets/150319383/a3557570-b4e5-413c-8981-444874073af6)
+![Screenshot 2024-05-08 223005](https://github.com/Rajaraman77/softweb/assets/150319383/2ad9bf5f-2e0f-49ca-abf0-87a84b93856d)
+![Screenshot 2024-05-08 223024](https://github.com/Rajaraman77/softweb/assets/150319383/c197ed76-7ba4-40f9-b269-d309f8310efd)
+![Screenshot 2024-05-08 223036](https://github.com/Rajaraman77/softweb/assets/150319383/8ce76ad4-ff46-4d6b-a52d-903f1b50b86e)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
