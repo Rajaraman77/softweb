@@ -859,7 +859,7 @@ align-items: bottom;
     ```
 
 ## OUTPUT:
-![Screenshot 2024-05-08 222950](https://github.com/Rajaraman77/softweb/assets/150319383/913355f7-7cae-46c0-bc2e-3fbae50bb048)
+![image](https://github.com/Rajaraman77/softweb/assets/150319383/6a6e4851-6643-43aa-9fd5-1a5e2964c760)
 
 
 
